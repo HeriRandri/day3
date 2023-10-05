@@ -1,0 +1,81 @@
+*{
+    margin: 0x;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:silver;
+}
+.bg-light{
+
+    width: 100px;
+    height: 60px;
+    border-radius:  40px 0 40px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+.nav-link{
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 10px 10px #000;
+    border: 1px solid white;
+    border-top: none;
+    padding: 5px 20px;
+    position: sticky;
+}
+
+.nav-item{
+    padding: 10px 20px;  
+}
+
+.div_p{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    margin: 50px;
+}
+p{
+    margin-top: 40px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 10px 5px 30px red;
+    border: 1px solid #000;
+    border-radius: 100px;
+    width: 600px;
+    margin-left: 500px;
+    text-indent:cm
+}
+input{
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 10px 5px 30px red;
+    border: 1px solid #000;
+    border-radius: 100px;
+    width: 600px;
+    height: 60px    ;
+    margin-left: 500px; 
+}
+.bg-primary{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin: 50px;
+    padding:30px;
+}
+
+.ptitlogo{
+    display: flex;
+    justify-content: center;    
+}
